@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jaggedArrayDemo", "jaggedArrayDemo\jaggedArrayDemo.csproj", "{0080C560-0D24-4D79-9039-F0A65B4D4CF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0080C560-0D24-4D79-9039-F0A65B4D4CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0080C560-0D24-4D79-9039-F0A65B4D4CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0080C560-0D24-4D79-9039-F0A65B4D4CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0080C560-0D24-4D79-9039-F0A65B4D4CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
