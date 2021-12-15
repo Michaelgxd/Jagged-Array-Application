@@ -1,0 +1,9 @@
+c:\users\domo\documents\visual studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\bin\Debug\jaggedArrayDemo.exe.config
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\bin\Debug\jaggedArrayDemo.exe
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\bin\Debug\jaggedArrayDemo.pdb
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.csprojResolveAssemblyReference.cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.FrmScores.resources
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.Properties.Resources.resources
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.csproj.GenerateResource.Cache
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.exe
+C:\Users\Domo\Documents\Visual Studio 2012\Projects\jaggedArrayDemo\jaggedArrayDemo\obj\Debug\jaggedArrayDemo.pdb
